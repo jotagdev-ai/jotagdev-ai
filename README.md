@@ -36,14 +36,7 @@
 
 Ainda estou desenvolvendo minha experiência e criando projetos para colocar meus estudos em prática.
 
-🔎 **Confira meus repositórios:** [github.com/SEU_USUARIO?tab=repositories](https://github.com/SEU_USUARIO?tab=repositories)
-
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
-</p>
+🔎 **Confira meus repositórios:** https://github.com/repos?q=owner%3A%40me
 
 ## 📫 Contato e redes sociais
 
