@@ -41,14 +41,11 @@ Ainda estou desenvolvendo minha experiência e criando projetos para colocar meu
 ## 📫 Contato e redes sociais
 
 <p>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jg-tec?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Adicionar%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="SEU_INSTAGRAM">
+  <a href="https://www.instagram.com/joaogbriel._?knvt=cHQyNGZ1YTlsdHEw">
     <img src="https://img.shields.io/badge/Instagram-Adicionar%20link-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Adicionar%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
