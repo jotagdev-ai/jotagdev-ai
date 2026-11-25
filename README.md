@@ -42,7 +42,7 @@ Ainda estou desenvolvendo minha experiência e criando projetos para colocar meu
 
 <p>
   <a href="https://www.linkedin.com/in/jg-tec?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Adicionar%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    
   </a>
   <a href="https://www.instagram.com/joaogbriel._?knvt=cHQyNGZ1YTlsdHEw">
     <img src="https://img.shields.io/badge/Instagram-Adicionar%20link-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
